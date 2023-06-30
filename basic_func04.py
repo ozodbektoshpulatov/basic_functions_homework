@@ -2,5 +2,6 @@
 
 # Return the value integer type.
 def main():
-    value = "a+b+c"
-    pass
+    value = 20
+    return value
+print(type(main()))
